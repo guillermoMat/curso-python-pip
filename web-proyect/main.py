@@ -19,7 +19,8 @@ def get_contacts():
         "email":"gm32@yahoo.com"
     }
 
-#uvicorn main:app --reload
+#COMANDO PARA ACTIVAR EL SERVIDOR:      uvicorn main:app --reload
+#***Deslogue del comando***
 #uvicorn libreria que viene con fastapi (antes se instalaba a parte de fastapi, osea las dos juntas)
 #main---es el archivo 
 #app---la carpeta o aplicacion
